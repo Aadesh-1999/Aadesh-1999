@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aadesh
 - 👀 I’m interested in #webdev #web3
-- 🌱 I’m currently learning #ReactJS #Frontend
+- 🌱 I’m currently learning #ReactJS #Frontend #MERN Stack
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ""
 
